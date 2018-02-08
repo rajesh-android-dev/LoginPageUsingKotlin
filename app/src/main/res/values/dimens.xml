@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bgPaddingTop">42dp</dimen>
+    <dimen name="bgPaddingLeft">22dp</dimen>
+    <dimen name="titleTextSize">32sp</dimen>
+    <dimen name="dividerheight">3dp</dimen>
+    <dimen name="buttonRadius">6dp</dimen>
+</resources>
