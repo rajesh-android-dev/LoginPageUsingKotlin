@@ -19,10 +19,11 @@
             android:id="@+id/tv_login"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textStyle="bold"
+            android:fontFamily="@font/muli_bold"
             android:text="@string/log_in"
             android:textColor="@android:color/white"
-            android:textSize="@dimen/titleTextSize" />
+            android:textSize="@dimen/titleTextSize"
+            android:textStyle="bold" />
 
         <View
             android:layout_below="@+id/tv_login"
